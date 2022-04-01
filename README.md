@@ -2,7 +2,7 @@
 
 Esse projeto esta utilizando a versão [Terraform](https://www.terraform.io/downloads) Version: 1.1.7
 
-Azure Cli [azurecli](https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli) Version: 2.26.0
+Azure Cli [azurecli](https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli) Version: 2.34.1
 
 ## Sobre o projeto
 
